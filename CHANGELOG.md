@@ -1,5 +1,13 @@
 # Changelog
 
+## 1.66.5 (2025-03-18)
+
+Full Changelog: [v1.66.4...v1.66.5](https://github.com/openai/openai-python/compare/v1.66.4...v1.66.5)
+
+### Chores
+
+* **internal:** add back releases workflow ([c71d4c9](https://github.com/openai/openai-python/commit/c71d4c918eab3532b36ea944b0c4069db6ac2d38))
+
 ## 1.66.4 (2025-03-17)
 
 Full Changelog: [v1.66.3...v1.66.4](https://github.com/openai/openai-python/compare/v1.66.3...v1.66.4)
